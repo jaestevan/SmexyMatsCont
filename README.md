@@ -1,5 +1,9 @@
 # SmexyMats
 
+## Download
+
+Get addon with Wago.IO app or at https://addons.wago.io/addons/smexymatscont
+  
 ## Continued
 
 This addon was originally created by [LunixiaLIVE](https://www.curseforge.com/wow/addons/smexymats)
