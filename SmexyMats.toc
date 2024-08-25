@@ -1,11 +1,10 @@
-## Interface: 100107
-## Title: |cFF00CCFFSmexyMats(SM)|r by: |cFFFF8000LunixiaLIVE|r v10.1.0.0 Retail
-## Notes: Tooltip Mod - Notates which Expansion the item is from. Centered around Professions and Crafting.
-## Version: 10.1.0.0 Retail
+## Interface: 110002
+## Title: SmexyMats(SM) [TWW]
+## Notes: Tooltip Mod - Notates which Expansion the item is from. Centered around Professions and Crafting. Now maintained by: DarkShade (originally created by LunixiaLIVE)
+## Version: 11.0.0.2 Retail
 ## SavedVariables: SmexyMatsDB
 ## Dependencies: Ace3
-## X-Curse-Project-ID: 270824
-## Author: Battle.net & Discord: LunixiaLIVE#1737
+## Author: DarkShade#2783 (originally created by LunixiaLIVE#1737)
 
 .\ref\ref_ACE3_Link.xml
 .\ref\ref_Locales.xml

@@ -55,3 +55,4 @@ L["Vendor"] = "Vendeur";
 L["Warlords of Draenor"] = "Warlords of Draenor";
 L["Weapon"] = "Arme";
 L["Wrath of the Lich King"] = "Wrath of the Lich King";
+L["TWW"] = "TWW";

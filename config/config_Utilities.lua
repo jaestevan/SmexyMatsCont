@@ -53,6 +53,7 @@ SmexyMats.Colors = {
 	BFA 		 = "|cFFFF7D0A",
 	SHADOWLANDS  = "|cFFE6CC80",
 	DRAGONFLIGHT = "|cFF33937F",
+	TWW 		 = "|cFFff3300",
 	
 	yellow 		 = "|cFFFFFF00",
 	white 		 = "|cFFFFFFFF",
@@ -178,6 +179,15 @@ SmexyMats.ExPacks = {
 		geticon = function() 
 			local t = {} 
 			t[ #t+1 ] = "|T"; t[ #t+1 ] = SmexyMats.ExPacks[9].icon; t[ #t+1 ] = ":"; t[ #t+1 ] = 64; t[ #t+1 ] = "|t "; return table.concat(t);
+		end,
+		},
+	[10]  = {
+		name = "TWW", --L["TWW"],
+		color = SmexyMats.Colors.TWW,
+		icon = "Interface\\Addons\\SmexyMats\\icon\\DF-Logo-Small.blp",
+		geticon = function() 
+			local t = {} 
+			t[ #t+1 ] = "|T"; t[ #t+1 ] = SmexyMats.ExPacks[10].icon; t[ #t+1 ] = ":"; t[ #t+1 ] = 64; t[ #t+1 ] = "|t "; return table.concat(t);
 		end,
 		},
 };

@@ -17,6 +17,7 @@ L["Battle for Azeroth"] = true;
 L["Shadowlands"] = true;
 L["DragonFlight"] = true;
 L["|cFFFF0000Battle |cFFE6CC80for |cFF2E6FF2Azeroth"] = true;
+L["TWW"] = "TWW";
 
 --Professions Names
 L["Scrap"] = true;

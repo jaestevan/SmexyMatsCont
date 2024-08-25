@@ -19,6 +19,7 @@ L["Warlords of Draenor"] = "Warlords of Draenor";
 L["Legion"] = "Legión";
 L["Battle For Azeroth"] = "Battle For Azeroth";
 L["|cFFFF0000Battle |cFFE6CC80for |cFF2E6FF2Azeroth"] = "|cFFFF0000Battle |cFFE6CC80for |cFF2E6FF2Azeroth";
+L["TWW"] = "TWW";
 
 --Professions Names
 L["Scrap"] = "Trituradora";

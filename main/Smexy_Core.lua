@@ -535,7 +535,7 @@ function SmexyMats:SearchDatabase(iID)
 	--Loops through Professions
 	for x = 1, 14 do
 		--Loops through Expansions
-		for y = 0, 9 do
+		for y = 0, 10 do
 			--Loops through Sources
 			for k, v in pairs( SmexyMats.Sources[x][y] ) do 
 				if (tonumber(iID) == v) then

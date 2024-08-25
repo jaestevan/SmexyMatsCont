@@ -51,3 +51,4 @@ L["Weapon"] = "무기"
 L["World Drop"] = "월드 드랍"
 L["Wrath of the Lich King"] = "리치왕의 분노"
 L["Zone Drop"] = "지역 드랍"
+L["TWW"] = "TWW";
