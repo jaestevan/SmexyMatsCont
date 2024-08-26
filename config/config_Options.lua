@@ -306,23 +306,23 @@ SmexyMats.options = {
 		},
 		IconRecommend = {
 			type = "description",
-			name =  SmexyMats.Profs[-3].icon() .." " .. SmexyMats.Profs[-3].name .. "\r\n" ..
-					SmexyMats.Profs[-2].icon() .." " .. SmexyMats.Profs[-2].name .. "\r\n" ..
-					SmexyMats.Profs[-1].icon() .." " .. SmexyMats.Profs[-1].name .. "\r\n" ..
-					SmexyMats.Profs[1].icon() .." " .. SmexyMats.Profs[1].name .. "\r\n" ..
-					SmexyMats.Profs[2].icon() .." " .. SmexyMats.Profs[2].name .. "\r\n" ..
-					SmexyMats.Profs[3].icon() .." " .. SmexyMats.Profs[3].name .. "\r\n" ..
-					SmexyMats.Profs[4].icon() .." " .. SmexyMats.Profs[4].name .. "\r\n" ..
-					SmexyMats.Profs[5].icon() .." " .. SmexyMats.Profs[5].name .. "\r\n" ..
-					SmexyMats.Profs[6].icon() .." " .. SmexyMats.Profs[6].name .. "\r\n" ..
-					SmexyMats.Profs[7].icon() .." " .. SmexyMats.Profs[7].name .. "\r\n" ..
-					SmexyMats.Profs[8].icon() .." " .. SmexyMats.Profs[8].name .. "\r\n" ..
-					SmexyMats.Profs[9].icon() .." " .. SmexyMats.Profs[9].name .. "\r\n" ..
-					SmexyMats.Profs[10].icon() .." " .. SmexyMats.Profs[10].name .. "\r\n" ..
-					SmexyMats.Profs[11].icon() .." " .. SmexyMats.Profs[11].name .. "\r\n" ..
-					SmexyMats.Profs[12].icon() .." " .. SmexyMats.Profs[12].name .. "\r\n" ..
-					SmexyMats.Profs[13].icon() .." " .. SmexyMats.Profs[13].name .. "\r\n" ..
-					SmexyMats.Profs[14].icon() .." " .. SmexyMats.Profs[14].name .. "\r\n\r\n" ..
+			name =  SmexyMats.Profs[-3].icon() .. " " .. SmexyMats.Profs[-3].name .. "\r\n" ..
+					SmexyMats.Profs[-2].icon() .. " " .. SmexyMats.Profs[-2].name .. "\r\n" ..
+					SmexyMats.Profs[-1].icon() .. " " .. SmexyMats.Profs[-1].name .. "\r\n" ..
+					SmexyMats.Profs[1].icon() .. " " .. SmexyMats.Profs[1].name .. "\r\n" ..
+					SmexyMats.Profs[2].icon() .. " " .. SmexyMats.Profs[2].name .. "\r\n" ..
+					SmexyMats.Profs[3].icon() .. " " .. SmexyMats.Profs[3].name .. "\r\n" ..
+					SmexyMats.Profs[4].icon() .. " " .. SmexyMats.Profs[4].name .. "\r\n" ..
+					SmexyMats.Profs[5].icon() .. " " .. SmexyMats.Profs[5].name .. "\r\n" ..
+					SmexyMats.Profs[6].icon() .. " " .. SmexyMats.Profs[6].name .. "\r\n" ..
+					SmexyMats.Profs[7].icon() .. " " .. SmexyMats.Profs[7].name .. "\r\n" ..
+					SmexyMats.Profs[8].icon() .. " " .. SmexyMats.Profs[8].name .. "\r\n" ..
+					SmexyMats.Profs[9].icon() .. " " .. SmexyMats.Profs[9].name .. "\r\n" ..
+					SmexyMats.Profs[10].icon() .. " " .. SmexyMats.Profs[10].name .. "\r\n" ..
+					SmexyMats.Profs[11].icon() .. " " .. SmexyMats.Profs[11].name .. "\r\n" ..
+					SmexyMats.Profs[12].icon() .. " " .. SmexyMats.Profs[12].name .. "\r\n" ..
+					SmexyMats.Profs[13].icon() .. " " .. SmexyMats.Profs[13].name .. "\r\n" ..
+					SmexyMats.Profs[14].icon() .. " " .. SmexyMats.Profs[14].name .. "\r\n\r\n" ..
 					SmexyMats.ExPacks[0].geticon() ..
 					SmexyMats.ExPacks[1].geticon() ..
 					SmexyMats.ExPacks[2].geticon() .. 
@@ -332,7 +332,8 @@ SmexyMats.options = {
 					SmexyMats.ExPacks[6].geticon() .. 
 					SmexyMats.ExPacks[7].geticon() .. 
 					SmexyMats.ExPacks[8].geticon() .. 
-					SmexyMats.ExPacks[9].geticon(),
+					SmexyMats.ExPacks[9].geticon() .. "\r\n" ..
+					SmexyMats.ExPacks[10].geticon(),
 					
 			width = "full",
 			fontSize = "large",

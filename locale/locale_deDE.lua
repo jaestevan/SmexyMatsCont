@@ -10,7 +10,6 @@ L["[SM]Expansion: "] = "[SM]Expansion:";
 L["[SM]ItemID: "] = "[SM]ItemID:";
 L["[SM]Profession(s): "] = "[SM]Beruf(e):";
 L["[SM]Source(s): "] = "[SM]Quelle(n):";
-L["|cFFFF0000Battle |cFFE6CC80for |cFF2E6FF2Azeroth"] = "|cFFFF0000Battle |cFFE6CC80for |cFF2E6FF2Azeroth";
 L["|rLoad Complete!"] = "|rVollständig geladen!";
 L["1. Link the item in chat."] = "1. Item im Chat verlinken.";
 L["2. Click on it."] = "2. Anklicken.";

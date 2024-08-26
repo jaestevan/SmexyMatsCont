@@ -2,13 +2,11 @@
 
 ## Download
 
-Get addon with Wago.IO app or at https://addons.wago.io/addons/smexymatscont
+Get addon with [Wago App](https://addons.wago.io/download?addonId=L6JD0jGv) or download at [Wago Site](https://addons.wago.io/addons/smexymatscont)
   
 ## Continued
 
-This addon was originally created by [LunixiaLIVE](https://www.curseforge.com/wow/addons/smexymats)
-
-I am maintaining the addon for TWW after discontinuation by original author.
+This addon was originally created by [LunixiaLIVE](https://www.curseforge.com/wow/addons/smexymats), I am maintaining it after discontinuation by original author before TWW launch.
 
 ## Configuration
 

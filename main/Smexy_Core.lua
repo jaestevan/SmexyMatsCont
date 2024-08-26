@@ -291,9 +291,6 @@ function SmexyMats:ProcessTooltip(tt, obj)
 					EPC = CBTwo .. SmexyMats.ExPacks[EP].name;
 				else
 					EPC = SmexyMats.ExPacks[EP].name;
-					if (EP == 7) then
-						EPC = L["|cFFFF0000Battle |cFFE6CC80for |cFF2E6FF2Azeroth"];
-					end;
 				end;
 			
 				if (SmexyMatsDB.profile.IsColorBlind) then

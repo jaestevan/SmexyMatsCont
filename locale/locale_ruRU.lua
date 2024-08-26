@@ -18,7 +18,6 @@ L["Mists of Pandaria"] = "Mists of Pandaria";
 L["Warlords of Draenor"] = "Warlords of Draenor";
 L["Legion"] = "Legion";
 L["Battle for Azeroth"] = "Battle for Azeroth";
-L["|cFFFF0000Battle |cFFE6CC80for |cFF2E6FF2Azeroth"] = "|cFFFF0000Battle |cFFE6CC80for |cFF2E6FF2Azeroth";
 L["TWW"] = "TWW";
 
 --Professions Names
