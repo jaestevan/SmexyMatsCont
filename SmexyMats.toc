@@ -1,10 +1,10 @@
-## Interface: 110000, 110002
+## Interface: 110002
 ## Title: SmexyMats(SM) [|cffeda55fTWW|r]
 ## Notes: Tooltip Mod - Notates which Expansion the item is from. Centered around Professions and Crafting.
-## Version: 11.0.2.2 Retail
+## Version: 11.0.2.4
 ## SavedVariables: SmexyMatsDB
 ## Dependencies: Ace3
-## Author: Now maintained by: DarkShade#2783 (originally created by LunixiaLIVE#1737)
+## Author: DarkShade#2783 (originally created by LunixiaLIVE#1737)
 
 .\ref\ref_ACE3_Link.xml
 .\ref\ref_Locales.xml
