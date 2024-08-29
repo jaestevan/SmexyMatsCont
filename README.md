@@ -1,5 +1,7 @@
 # SmexyMats
 
+[![Package and release](https://github.com/jaestevan/SmexyMatsCont/actions/workflows/BigWigsPackager.yml/badge.svg?branch=main)](https://github.com/jaestevan/SmexyMatsCont/actions/workflows/BigWigsPackager.yml)
+
 ## Download
 
 Get addon with [Wago App](https://addons.wago.io/download?addonId=L6JD0jGv) or download at [Wago Site](https://addons.wago.io/addons/smexymatscont)
