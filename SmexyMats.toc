@@ -1,4 +1,4 @@
-## Interface: 110002, 110000
+## Interface: 110002
 ## Title: SmexyMats(SM) [|cffeda55fTWW|r]
 ## Notes: Tooltip Mod - Notates which Expansion a profession item is from, used by, and which alters can use it.
 ## Version: 11.0.2.6
