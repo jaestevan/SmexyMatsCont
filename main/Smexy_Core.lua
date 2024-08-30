@@ -3,13 +3,12 @@
 	Locales: US, ES, MX, DE, FR, RU
 	]]--
 
---local pairs, tonumber, print, string, table, _G = pairs, tonumber, print, string, table, _G;
 SmexyMats = LibStub("AceAddon-3.0"):NewAddon("SmexyMats", "AceEvent-3.0", "AceConsole-3.0");
 if SmexyMatsDB == nil then SmexyMatsDB = {}; end;
 local L = LibStub("AceLocale-3.0"):GetLocale("SmexyMats");
 local AceConfig = LibStub("AceConfigDialog-3.0");
 local name = "SmexyMats(Retail)";
-local version = "v10.1.0.0";
+local version = "11.0.0.6";
 local isTooltipDone = nil;
 local storedLink = nil;
 local LID = nil;
