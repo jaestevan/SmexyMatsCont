@@ -5,6 +5,7 @@
 ## SavedVariables: SmexyMatsDB
 ## Dependencies: Ace3
 ## Author: DarkShade#2783 (originally created by LunixiaLIVE#1737)
+## X-Wago-ID: L6JD0jGv
 
 .\ref\ref_ACE3_Link.xml
 .\ref\ref_Locales.xml
@@ -16,6 +17,3 @@
 .\config\config_Defaults.lua
 
 .\data\data_Materials.lua
-
-
-# L6JD0jGv

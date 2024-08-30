@@ -44,4 +44,4 @@ jobs:
       - name: Package and release for Wrath of the Lich King Classic
         uses: BigWigsMods/packager@v2
         with:
-          args: -g retail -a 0
+          args: -g retail -a 0 -t source
