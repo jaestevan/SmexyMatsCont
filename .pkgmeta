@@ -1,0 +1,6 @@
+# https://github.com/BigWigsMods/packager/wiki/Preparing-the-PackageMeta-File
+
+ignore:
+  - ignore
+  - database-tww.txt
+  - README.md
