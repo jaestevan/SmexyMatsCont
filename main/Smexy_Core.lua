@@ -51,11 +51,11 @@ function SmexyMats:OnInitialize()
 	if (SmexyMats:CheckDB() == true) then
 		SmexyMats:HookTooltips();
 		if (SmexyMatsDB.profile.SMMsg == true) then
-			print(SmexyMats.Colors.wowtoken .. name,SmexyMats.Colors.legendary .. version,L["|rLoad Complete!"]);
+			print(SmexyMats.Colors.wowtoken .. name, SmexyMats.Colors.legendary .. version,L["|rLoad Complete!"]);
 		end;
 	else
 		if (SmexyMatsDB.profile.SMMsg == true) then
-			print(SmexyMats.Colors.wowtoken .. name,SmexyMats.Colors.legendary .. version,SmexyMats.Colors.DeathKnight .. L["Failed! |rMissing Data-Tables. Reinstall SemxyMats(SM) to correct this issue or report the error to https://mods.curse.com/addons/wow/270824-smexymats"]);
+			print(SmexyMats.Colors.wowtoken .. name, SmexyMats.Colors.legendary .. version,SmexyMats.Colors.DeathKnight .. L["Failed! |rMissing Data-Tables. Reinstall SemxyMats(SM) to correct this issue or report the error to https://mods.curse.com/addons/wow/270824-smexymats"]);
 		end;
 	end;
 end;	
@@ -149,6 +149,12 @@ function SmexyMats:TRADE_SKILL_SHOW()
 		if not (SmexyMatsDB[ProTree][PrimProE][FactionName][RealmName][CharacterName]) then SmexyMatsDB[ProTree][PrimProE][FactionName][RealmName][CharacterName] = {}; end;
 	end;
 	
+	if PrimProA == nil then PrimProA = "" end;
+	if PrimProB == nil then PrimProB = "" end;
+	if PrimProC == nil then PrimProC = "|cffff0000" .. SmexyMats.Profs[2].name .. "|r" end; -- Archeology
+	if PrimProD == nil then PrimProD = "|cffff0000" .. SmexyMats.Profs[7].name .. "|r" end; -- Fishing
+	if PrimProE == nil then PrimProE = "|cffff0000" .. SmexyMats.Profs[4].name .. "|r" end; -- Cooking
+
 	if (SmexyMatsDB.profile.SMMsg == true) then
 		print(SmexyMats.Colors.wowtoken .. "Professions for: ");
 		print(SmexyMats.Colors.wowtoken .. "Character: " .. CharacterName);

@@ -363,8 +363,7 @@ SmexyMats.options = {
 					"    Show the item ID for that item.\r\n" .. 
 					"\r\n" ..
 					"All item information is gathered from Wowhead. Please consider using the Wowhead client\r\n" ..
-					"to help data mine for addons like this one.\r\n" ..
-					"https://www.wowhead.com/client\r\n" ..
+					"to help data mine for addons like this one: https://www.wowhead.com/client\r\n" ..
 					"\r\n"..
 					"Thank you all for your feedback and suggestions!",
 			fontSize = "medium",
@@ -388,14 +387,10 @@ SmexyMats.options = {
 		},
 		About = {
 			type = "description",
-			name = SmexyMats.Colors.wowtoken .. "BattleTag & Discord: LunixiaLIVE#1737\r\n" ..
-					"|cFFCC66FFTwitch: https://www.twitch.tv/LunixiaLIVE\r\n" ..
-					"|rCheck out my other addons:\r\n" ..
-					"|cFFFF8000SmexyMats(Classic)\r\n" ..
-					"|cFFFF8000SmexyScaleUI(SSUI)\r\n" ..  
-					"|cFFFF8000SmexyGMO(SGMO)\r\n\r\n" ..
-					"CREDITS: I do not own any of the images for the icons. " ..
-					"I got the expansion/profession icons from in-game resources.",
+			name = SmexyMats.Colors.wowtoken .. "Maintained in TWW by DarkShade#2783 (battle tag)\r\n" ..
+					"Created originally by: LunixiaLIVE#1737\r\n" ..
+					"CREDITS: \r\n" ..
+					"Expansion/profession icons from in-game resources.",
 			fontSize = "medium",
 			order = 32,
 		},
